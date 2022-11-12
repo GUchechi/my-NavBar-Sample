@@ -2,8 +2,8 @@ import React from 'react'
 
 const Testimonial = () => {
   return (
-    <div>
-      Testimonial
+    <div className="page-heading">
+      <h1>Testimonials</h1>
     </div>
   )
 }

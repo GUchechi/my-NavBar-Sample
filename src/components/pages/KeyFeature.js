@@ -2,7 +2,9 @@ import React from 'react'
 
 const KeyFeature = () => {
   return (
-    <div>KeyFeature</div>
+    <div className="page-heading">
+      <h1>Key Feature</h1>
+    </div>
   )
 }
 
