@@ -7,7 +7,7 @@ nav{
     position: relative;
     z-index: 99;
 }
-
+ 
 .menu-icon {
     display: none;
 }
@@ -83,6 +83,7 @@ nav{
 @media screen and (max-width: 600px) {
     .menu-icon {
         display: block;
+        cursor: pointer;
       }
 
       .menu-list {

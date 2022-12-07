@@ -30,7 +30,7 @@ const NavBar = () => {
       </div>
       <ul className={clicked ? "menu-list" : "menu-list close"}>{menuList}</ul>
     </nav>
-  )
+  ) 
 }
 
 export default NavBar
